@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "{username} 포스트를 좋아요 했을때"
+  post_likes_modal_title: 사용자들이 이것을 좋아요할때
+  post_liked_by_self: "{users}"
+  post_liked_by:
+    one: "{users}"
+    other: "{users}"
+  unlike_action: 좋아요 취소
+  like_action: 좋아요
+  notify_post_liked: 누군가 내 글에 좋아요를 했을때
+  others: "{count} 그외"
+  you: 당신

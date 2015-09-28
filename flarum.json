@@ -1,0 +1,26 @@
+{
+    "name": "flarum-i18n-korean",
+    "title": "한국어(ko_KR)",
+    "description": "Flarum한글 언어팩.",
+    "keywords": [],
+    "version": "0.1.0-beta-2",
+    "author": {
+        "name": "Yongteak kwon",
+        "email": "skillove@gmail.com",
+        "homepage": "http://iamyourcode.com"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "https://github.com/yongteak/flarum-i18n-korean",
+        "issues": "https://github.com/yongteak/flarum-i18n-korean/issues"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#FF9800",
+        "color": "#fff"
+    }
+}

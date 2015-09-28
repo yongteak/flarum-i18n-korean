@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} 잠김"
+  discussion_locked_post: "{username} 게시물 잠금."
+  discussion_unlocked_post: "{username} 게시물 잠금 해제."
+  notify_discussion_locked: 누군가 내 게시물을 자금상태로 만든경우
+  locked: 잠김
+  lock: 잠그기
+  unlock: 잠금해제

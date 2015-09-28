@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "{number} 개의 리플"
+  post_mentioned_notification: "{username} 당신의 게시물에 리플 작성"
+  others: "{count} 외"
+  user_mentioned_notification: "{username} 당신이 리플 작성"
+  post_mentioned_by: "{users} 여기에 리플 작성."
+  you: 당신
+  reply_link: 답글
+  notify_post_mentioned: 누군가 내 게시물에 답글을 작성한 경우
+  notify_user_mentioned: 누군가 내 게시물에 맨션을 작성한 경우

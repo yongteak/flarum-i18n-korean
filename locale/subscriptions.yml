@@ -1,0 +1,13 @@
+subscriptions:
+  following: 팔로잉
+  ignoring: 무시하기
+  follow: 팔로워
+  unfollow: 팔로워 취소
+  ignore: 무시
+  notify_new_post: 누군가 게시글에 나를 팔로잉한경우
+  new_post_notification: "{username} 게시물 등록한경우"
+  not_following: 팔로윙 취소
+  not_following_description: @mentioned 인경우 알림.
+  following_description: 모든 리플등록시 알림
+  ignoring_description: 해당 게시물에 대해서 어떠한 알람도 받지 않음
+  unignore: 무시 취소
