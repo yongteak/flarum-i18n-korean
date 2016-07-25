@@ -1,7 +1,39 @@
 {
-    "autoload": {
-        "psr-4": {
-            "iycode\\": "src/"
+    "name": "yongteak/flarum-i18n-korean",
+    "type": "flarum-extension",
+    "description": "Korean language pack for Flarum",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yongteak",
+            "email": "skillove@gmail.com",
+			"homepage": "http://www.iamyourcode.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/yongteak/flarum-i18n-korean.git",
+		"issues": "http://www.iamyourcode.com/t/flarum"
+    },
+    "require": {
+		"flarum/core": "^0.1.0-beta.5"
+    },
+    "extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
+		},
+        "flarum-extension": {
+            "title": "Korean",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#fff",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "ko-kr",
+            "title": "한글"
         }
     }
 }

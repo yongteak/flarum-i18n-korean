@@ -1,4 +1,0 @@
-pusher:
-  show_updated_discussions:
-    one: "{count} 개의 게시물 업데이트 되었습니다."
-    other: "{count} 개의 게시물 업데이트 되었습니다."

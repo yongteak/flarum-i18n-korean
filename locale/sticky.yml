@@ -1,8 +1,0 @@
-sticky:
-  discussion_stickied_notification: "{username} 고정됨"
-  discussion_stickied_post: "{username} 게시물은 고정되었다."
-  discussion_unstickied_post: "{username} 게시물은 고정 해제되었다."
-  notify_discussion_stickied: 누군가 내 게시물을 고정했을때
-  stickied: 고정
-  sticky: 고정
-  unsticky: 고정 해제
