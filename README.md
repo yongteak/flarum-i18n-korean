@@ -1,3 +1,6 @@
+아래로 이동하세요.
+https://github.com/yongteak/flarum-ext-korean
+
 ## 소개
 Flarum 0.1.0-beta-2 기준으로 번역.
 
